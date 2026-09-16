@@ -7,7 +7,7 @@
   <h1 align="center">
     Welcome to
     <br>
-    the Bath Reinforcement Learning Lab Github
+    the Bath Reinforcement Learning Lab GitHub
     <br>
   </h1>
 </p>
@@ -30,6 +30,8 @@ Here is the code corresponding to our papers:
 | [Approximating Shapley Explanations in Reinforcement Learning](https://arxiv.org/pdf/2511.06094)                                                                                            | NeurIPS 2025        | [GitHub Repo](https://github.com/djeb20/fastsverl)             |
 | [Causal Discovery in Action: Learning Chain-Reaction Mechanisms from Interventions](https://proceedings.mlr.press/v323/panayiotou26a.html)                                                                                            | CLeaR 2026        | [GitHub Repo](https://github.com/panispani/chain-reaction-causal-discovery)             |
 | [CausalProfiler: Generating Synthetic Benchmarks for Rigorous and Transparent Evaluation of Causal Machine Learning](https://openreview.net/pdf?id=0wCl7EifsY)                                                                                            | ICML 2026        | [GitHub Repo](https://github.com/panispani/causal-profiler)             |
+| [Learning the Minimum Action Distance](https://openreview.net/pdf?id=ZnOnnJJghs)                                                                                            | ICML 2026        | [GitHub Repo](https://github.com/lorenzosteccanella/MinimumActionDistance)             |
+
 
 
 
